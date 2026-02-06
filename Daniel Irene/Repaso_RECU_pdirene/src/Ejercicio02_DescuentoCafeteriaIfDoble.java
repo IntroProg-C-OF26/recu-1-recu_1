@@ -1,6 +1,10 @@
+/**
+ * En una cafetería, si el cliente es estudiante de la UTPL recibe 10% de descuento; 
+ * pero si es de la UNL su descuento es del 15%.
+ */
 import java.util.Scanner;
 
-public class DescuentoCafeteriaIfDoble {
+public class Ejercicio02_DescuentoCafeteriaIfDoble {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,17 +19,14 @@ public class DescuentoCafeteriaIfDoble {
         // PROCESO (IF DOBLE)
         double descuento = 0.0;
 
-        if (/* TODO: condición para UTPL */) {
-            // TODO: asignar descuento del 10%
+        if (universidad.equals("UTPL")) {
+            descuento = 0.10;
         } else {
-            // TODO: asignar descuento del 15%
+            descuento = 0.15;
         }
 
-        // TODO: calcular el total a pagar
+        totalCompra = totalCompra - (totalCompra * descuento); 
 
-        // SALIDA
-        // TODO: mostrar universidad, descuento aplicado y total a pagar
-
-        sc.close();
+        System.out.println("Descuento y Compra: (" + (descuento*100) + "%), ($" + totalCompra +")");
     }
 }
