@@ -31,8 +31,3 @@ public class Ejercicio02_DescuentoCafeteriaIfDoble {
         sc.close();
     }
 }
-/**run:
-Ingrese el total de la compra: 100
-Ingrese la universidad (UTPL / UNL): UTPL
- descuento y compra: (0.1), (90.0)
-BUILD SUCCESSFUL (total time: 5 seconds)
