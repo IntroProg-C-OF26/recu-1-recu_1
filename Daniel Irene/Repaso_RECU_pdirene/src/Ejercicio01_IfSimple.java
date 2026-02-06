@@ -11,12 +11,13 @@ public class Ejercicio01_IfSimple {
         Scanner sc = new Scanner(System.in);
 
         // ENTRADA (para completar en vivo)
-        System.out.print("¿La tarea fue entregada? (true/false): ");
+        System.out.print("¿La tarea fue entregada? (true (SI) / false (NO) ): ");
         boolean entregada = sc.nextBoolean();
 
         // PROCESO (IF SIMPLE)
-        if (/* TODO: condición cuando la tarea fue entregada */) {
-            // TODO: mostrar mensaje de confirmación
+      //if (entregada == true) {
+        if (entregada) {
+            System.out.println("Tarea receptada");
         }
 
         // SALIDA
