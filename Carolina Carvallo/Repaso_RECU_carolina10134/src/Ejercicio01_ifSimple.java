@@ -1,21 +1,24 @@
+
 import java.util.Scanner;
+
+
 /**
- * Ejercicio01: En una plataforma virtual, si un estudiante entregó la tarea, el 
- * sistema muestra un mensaje de confirmación.
- * @author simonnevelez
- * @version 1.0
+ *En una plataforma virtual, si un estudiante entregó la tarea, el sistema 
+ * muestra un mensaje de confirmación.
+ * @author carolina carvallo 
  */
-public class Ejercicio01_IfSimple {
+public class Ejercicio01_ifSimple {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         // ENTRADA (para completar en vivo)
-        System.out.print("¿La tarea fue entregada? (true/false): ");
+        System.out.print("¿La tarea fue entregada? (true(si)/false(no)): ");
         boolean entregada = sc.nextBoolean();
 
-        // PROCESO (IF SIMPLE)
+        // PROCESO (IF SIMPLE)]
+      // if (etregada==true){
         if (entregada) {
-            System.out.println("Tarea entregada correctamente");
+            System.out.println("Tarea aceptada");
             // TODO: mostrar mensaje de confirmación
         }
 
@@ -26,7 +29,7 @@ public class Ejercicio01_IfSimple {
 
 /**
  * run:
-¿La tarea fue entregada? (true/false): true
+¿La tarea fue entregada? (true(si)/false(no)): true
 Tarea entregada correctamente
 BUILD SUCCESSFUL (total time: 4 seconds)
  */
