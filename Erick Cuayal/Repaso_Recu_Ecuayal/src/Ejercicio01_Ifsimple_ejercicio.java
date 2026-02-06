@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author Erick 
 */
 
-public class Ifsimple_ejercicio {
+public class Ejercicio01_Ifsimple_ejercicio {
     public static void main(String[] args) {
    
         Scanner sc = new Scanner(System.in);
