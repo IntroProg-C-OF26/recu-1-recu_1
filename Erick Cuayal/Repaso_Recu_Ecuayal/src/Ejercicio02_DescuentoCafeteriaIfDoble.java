@@ -1,14 +1,13 @@
 
+/**
+ * En una cafetería, si el cliente es estudiante de la UTPL recibe 10% de descuento; 
+ * pero si es de la UNL su descuento es del 15%.
+ */
 import java.util.Scanner;
 
-/**
- * Ejercicio02: En una cafetería, si el cliente es estudiante de la UTPL recibe 
- * 10% de descuento; pero si es de la UNL su descuento es del 15%.
- * @author simonnevelez
- * @version 1.0
- */
 public class Ejercicio02_DescuentoCafeteriaIfDoble {
-     public static void main(String[] args) {
+
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         // ENTRADAS (para completar en vivo)
@@ -32,7 +31,3 @@ public class Ejercicio02_DescuentoCafeteriaIfDoble {
         System.out.println("Descuento y Compra: (" + (descuento*100) + "%), ($" + totalCompra +")");
     }
 }
-
-/**
- * 
- */

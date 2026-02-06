@@ -18,3 +18,11 @@ public class Ejercicio01_IfSimple {
         }
     }
 }
+/**
+ * run:
+La tarea fue entregada? (true/false): 
+true
+Tarea receptada
+BUILD SUCCESSFUL (total time: 3 seconds)
+
+ */
