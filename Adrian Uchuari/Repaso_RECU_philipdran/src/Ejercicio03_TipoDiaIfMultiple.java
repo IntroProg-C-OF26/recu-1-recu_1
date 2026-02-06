@@ -14,11 +14,11 @@ public class Ejercicio03_TipoDiaIfMultiple {
         int temperatura = ale.nextInt(40); // TODO: asignar valor
 
         if (temperatura <=15) {
-            System.out.println("Dia Frio");
+            System.out.println("Dia Frio: " + temperatura + "o");
         } else if (temperatura<=25) {
-            System.out.println("Dia Tempaldo");
+            System.out.println("Dia Tempaldo: " + temperatura + "o");
         } else {
-            System.out.println("Dia Caluroso");
+            System.out.println("Dia Caluroso: " + temperatura + "o");
         }
 
     }
