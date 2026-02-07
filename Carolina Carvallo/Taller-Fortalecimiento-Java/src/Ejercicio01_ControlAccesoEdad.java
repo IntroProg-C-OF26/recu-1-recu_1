@@ -1,8 +1,8 @@
 import java.util.Scanner;
 /**
  *Solicite al usuario su edad (entero).  
-Si la edad es **mayor o igual a 18**, muestre: `Acceso permitido`.  
-Si no, no muestre nada adicional.
+*Si la edad es **mayor o igual a 18**, muestre: `Acceso permitido`.  
+*Si no, no muestre nada adicional.
  * @author carolina carvallo 
  */
 public class Ejercicio01_ControlAccesoEdad {
