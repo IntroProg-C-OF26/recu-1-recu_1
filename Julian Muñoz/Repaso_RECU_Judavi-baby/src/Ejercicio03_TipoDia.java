@@ -17,7 +17,5 @@ public class Ejercicio03_TipoDia {
         } else {
             System.out.println("Caluroso: " + temperatura);
         }
-        
-        
     }
 }
