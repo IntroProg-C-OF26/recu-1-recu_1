@@ -8,7 +8,7 @@ import java.util.Scanner;
 - for
 
 Muestre los tres resultados y verifique que coinciden.
- * @author carol
+ * @author carolina carvallo
  */
 public class Ejercicio08_SumaConCiclos {
     public static void main(String[] args) {
