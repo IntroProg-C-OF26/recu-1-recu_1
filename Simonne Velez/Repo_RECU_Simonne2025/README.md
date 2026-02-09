@@ -1,5 +1,8 @@
 # IntroProg – Taller de Fortalecimiento (Java)
 
+LINK REPOSITORIO PERSONAL PORQUE NO SE PUDO REALIZAR ADD, COMMIT, PUSSH:
+https://github.com/Simonne2025/Taller-recuperacion.git
+
 Enfoque: **estructuras selectivas**, **estructuras repetitivas**, **arreglos uni/bidimensionales** y **modularización (métodos)** en Java.
 
 ---
