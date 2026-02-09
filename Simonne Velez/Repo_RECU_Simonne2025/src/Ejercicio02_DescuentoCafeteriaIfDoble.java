@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 /**
@@ -34,5 +33,9 @@ public class Ejercicio02_DescuentoCafeteriaIfDoble {
 }
 
 /**
- * 
+ * run:
+Ingrese el total de la compra: 100
+Ingrese la universidad (UTPL / UNL): UTPL
+Descuento y Compra: (10.0%), ($90.0)
+BUILD SUCCESSFUL (total time: 7 seconds)
  */

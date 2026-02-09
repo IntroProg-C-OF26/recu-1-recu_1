@@ -1,9 +1,8 @@
 /**
- * En una cafetería, si el cliente es estudiante de la UTPL recibe 10% de descuento; 
- * pero si es de la UNL su descuento es del 15%.
+ * En una cafetería, si el cliente es estudiante  de la UTPL  recibe un 10% de descuento; pero si es de la UNL  su descuento es del 15%.
+ * @author julian jaramillo
  */
 import java.util.Scanner;
-
 public class Ejercicio02_DescuentoCafeteriaIfDoble {
 
     public static void main(String[] args) {
@@ -24,9 +23,16 @@ public class Ejercicio02_DescuentoCafeteriaIfDoble {
         } else {
             descuento = 0.15;
         }
+        totalCompra = totalCompra - (totalCompra * descuento);
+        System.out.println("Descuento y compa: (" + (descuento*100) + "%) , ($" + totalCompra +")");
 
-        totalCompra = totalCompra - (totalCompra * descuento); 
-
-        System.out.println("Descuento y Compra: (" + (descuento*100) + "%), ($" + totalCompra +")");
+        sc.close();
     }
 }
+/**
+ * run:
+Ingrese el total de la compra: 1500
+Ingrese la universidad (UTPL / UNL): utpl
+Descuento y compa: (15.0%) , ($1275.0)
+BUILD SUCCESSFUL (total time: 22 seconds)
+ */

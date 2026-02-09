@@ -1,7 +1,7 @@
 /**
  * Un sistema clasifica el día según la temperatura: frío (≤15 °C), templado 
  * (16–25 °C) o caluroso (≥26 °C).
- * @author Daniel Irene
+ * @author Esteban Rocano
  */
 import java.util.Random;
 public class Ejercicio03_TipoDiaIfMultiple {
