@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  * @author Erick
  */
-public class SwitchClase {
+public class SwitchCase {
 
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
