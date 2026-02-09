@@ -42,3 +42,18 @@ public class Ejercicio08_SumadeCiclos {
         }
     }
 }
+/**
+ * run:
+Ingrese un n�mero N: 2
+Suma con while: 3
+Suma con do-while: 3
+Suma con for: 3
+BUILD SUCCESSFUL (total time: 2 seconds)
+ * run:
+Ingrese un n�mero N: 1
+Suma con while: 1
+Suma con do-while: 1
+Suma con for: 1
+BUILD SUCCESSFUL (total time: 1 second)
+
+ */

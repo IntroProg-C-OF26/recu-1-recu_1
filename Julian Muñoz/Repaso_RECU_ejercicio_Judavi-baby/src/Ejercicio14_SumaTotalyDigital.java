@@ -43,3 +43,29 @@ public class Ejercicio14_SumaTotalyDigital {
         }
     }
 }
+/**
+ * run:
+Ingrese el n�mero de filas: 2
+Ingrese el n�mero de columnas: 3
+Ingrese el valor [0][0]: 1
+Ingrese el valor [0][1]: 5
+Ingrese el valor [0][2]: 6
+Ingrese el valor [1][0]: 7
+Ingrese el valor [1][1]: 4
+Ingrese el valor [1][2]: 2
+Suma total: 25
+Diagonal no aplica
+BUILD SUCCESSFUL (total time: 8 seconds)
+
+* run:
+Ingrese el n�mero de filas: 2
+Ingrese el n�mero de columnas: 2
+Ingrese el valor [0][0]: 1
+Ingrese el valor [0][1]: 3
+Ingrese el valor [1][0]: 5
+Ingrese el valor [1][1]: 4
+Suma total: 13
+Suma diagonal principal: 5
+BUILD SUCCESSFUL (total time: 4 seconds)
+
+ */

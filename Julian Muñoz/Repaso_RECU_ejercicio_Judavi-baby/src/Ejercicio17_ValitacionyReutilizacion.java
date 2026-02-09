@@ -35,3 +35,15 @@ public class Ejercicio17_ValitacionyReutilizacion {
         System.out.println("Estado: " + estado);
     }
 }
+/**
+ * run:
+Ingrese una nota (0-100): 100
+Estado: Aprobado
+BUILD SUCCESSFUL (total time: 1 second)
+
+* run:
+Ingrese una nota (0-100): 50
+Estado: Reprobado
+BUILD SUCCESSFUL (total time: 2 seconds)
+
+ */

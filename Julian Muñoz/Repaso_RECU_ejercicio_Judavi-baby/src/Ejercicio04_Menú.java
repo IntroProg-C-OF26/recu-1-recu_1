@@ -47,3 +47,28 @@ public class Ejercicio04_Menú {
         }
     }
 }
+/**
+ * run:
+Men� de opciones:
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+Ingrese una opci�n: 1
+Ingrese el primer n�mero: 5
+Ingrese el segundo n�mero: 5
+Resultado: 10.0
+BUILD SUCCESSFUL (total time: 7 seconds)
+ * run:
+Men� de opciones:
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+Ingrese una opci�n: 4
+Ingrese el primer n�mero: 11000
+Ingrese el segundo n�mero: 100
+Resultado: 110.0
+BUILD SUCCESSFUL (total time: 5 seconds)
+
+ */

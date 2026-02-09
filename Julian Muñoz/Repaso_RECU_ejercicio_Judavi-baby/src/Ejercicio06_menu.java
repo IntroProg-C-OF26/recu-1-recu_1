@@ -37,3 +37,38 @@ public class Ejercicio06_menu {
         } while (opcion != 0);
     }
 }
+/**
+ * run:
+Men�:
+1. Saludar
+2. Mostrar fecha
+0. Salir
+Ingrese una opci�n: 1
+Hola, bienvenido
+
+Men�:
+1. Saludar
+2. Mostrar fecha
+0. Salir
+Ingrese una opci�n: 0
+Saliendo del programa...
+
+BUILD SUCCESSFUL (total time: 3 seconds)
+ * run:
+Men�:
+1. Saludar
+2. Mostrar fecha
+0. Salir
+Ingrese una opci�n: 2
+Funcionalidad no implementada
+
+Men�:
+1. Saludar
+2. Mostrar fecha
+0. Salir
+Ingrese una opci�n: 0
+Saliendo del programa...
+
+BUILD SUCCESSFUL (total time: 5 seconds)
+
+ */

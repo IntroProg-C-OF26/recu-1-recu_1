@@ -18,3 +18,16 @@ public class Ejercicio02_Aprovado_Reprovado {
         }
     }
 }
+/**
+ * run:
+Ingrese la nota final (0-100): 
+80
+Aprovado
+BUILD SUCCESSFUL (total time: 3 seconds)
+ *run:
+Ingrese la nota final (0-100): 
+40
+Reprovado
+BUILD SUCCESSFUL (total time: 1 second)
+
+ */

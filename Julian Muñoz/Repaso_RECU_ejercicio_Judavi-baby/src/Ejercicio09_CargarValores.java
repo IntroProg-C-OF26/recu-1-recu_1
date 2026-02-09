@@ -23,3 +23,19 @@ public class Ejercicio09_CargarValores {
         }
     }
 }
+/**
+ * run:
+Ingrese la cantidad de valores: 2
+Ingrese el valor 1: 1
+Ingrese el valor 2: 1
+Carga completada
+BUILD SUCCESSFUL (total time: 4 seconds)
+ * run:
+Ingrese la cantidad de valores: 3
+Ingrese el valor 1: 2
+2
+Ingrese el valor 2: Ingrese el valor 3: 2
+Carga completada
+BUILD SUCCESSFUL (total time: 6 seconds)
+
+ */

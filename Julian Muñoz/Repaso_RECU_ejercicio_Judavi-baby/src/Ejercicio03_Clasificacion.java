@@ -25,3 +25,16 @@ public class Ejercicio03_Clasificacion {
         }
     }
 }
+/**
+ * run:
+Ingrese el puntaje:
+40
+En proceso
+BUILD SUCCESSFUL (total time: 5 seconds)
+ * run:
+Ingrese el puntaje:
+80
+Bueno
+BUILD SUCCESSFUL (total time: 1 second)
+
+ */

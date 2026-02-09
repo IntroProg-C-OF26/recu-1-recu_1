@@ -149,3 +149,95 @@ public class Ejercicio18_RegistroDeNotas {
         } while (opcion != 0);
     }
 }
+/**
+ * run:
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 1
+Ingrese n�mero de estudiantes (1-30): 1
+Nombre del estudiante 1: julian
+Nota (0-100): 80
+Registro completado.
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 0
+Saliendo del sistema...
+BUILD SUCCESSFUL (total time: 15 seconds)
+
+* run:
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 1
+Ingrese n�mero de estudiantes (1-30): 1
+Nombre del estudiante 1: Julian
+Nota (0-100): 100
+Registro completado.
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 2
+
+LISTADO DE ESTUDIANTES
+Julian - 100.0
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 3
+Promedio del curso: 100,00
+Mayor nota: 100.0 (Julian)
+Menor nota: 100.0 (Julian)
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 4
+Ingrese el nombre a buscar: julian
+Estudiante no encontrado.
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 4
+Ingrese el nombre a buscar: Julian
+Nota de Julian: 100.0
+
+MEN� PRINCIPAL
+1. Registrar estudiantes
+2. Mostrar listado
+3. Mostrar estad�sticas
+4. Buscar estudiante por nombre
+0. Salir
+Seleccione una opci�n: 0
+Saliendo del sistema...
+BUILD SUCCESSFUL (total time: 39 seconds)
+
+ */

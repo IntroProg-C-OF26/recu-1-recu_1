@@ -38,3 +38,23 @@ public class Ejercicio16_CalculosconRetornos {
         System.out.println("Mayor: " + mayor(num1, num2));
     }
 }
+/**
+ * run:
+Ingrese el primer n�mero: 2
+Ingrese el segundo n�mero: 3
+Suma: 5.0
+Resta: -1.0
+Producto: 6.0
+Mayor: 3.0
+BUILD SUCCESSFUL (total time: 4 seconds)
+
+* run:
+Ingrese el primer n�mero: 3
+Ingrese el segundo n�mero: 85
+Suma: 88.0
+Resta: -82.0
+Producto: 255.0
+Mayor: 85.0
+BUILD SUCCESSFUL (total time: 1 second)
+
+ */

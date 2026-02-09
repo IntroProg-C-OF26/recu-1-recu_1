@@ -18,3 +18,14 @@ public class Ejercicio01_Edad {
         }
     }
 }
+/**
+ * run:
+Ingrese su edad: 
+5
+BUILD SUCCESSFUL (total time: 3 seconds)
+ * run:
+Ingrese su edad: 
+2
+BUILD SUCCESSFUL (total time: 15 seconds)
+
+ */

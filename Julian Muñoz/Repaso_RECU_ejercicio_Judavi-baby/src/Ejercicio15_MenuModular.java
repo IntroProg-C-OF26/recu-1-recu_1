@@ -47,3 +47,51 @@ public class Ejercicio15_MenuModular {
         } while (opcion != 0);
     }
 }
+/**
+ * run:
+
+Men�:
+1. Mostrar saludo
+2. Mostrar tabla de un n�mero
+0. Salir
+Ingrese una opci�n: 1
+Hola, bienvenido
+
+Men�:
+1. Mostrar saludo
+2. Mostrar tabla de un n�mero
+0. Salir
+Ingrese una opci�n: 0
+Saliendo del programa...
+BUILD SUCCESSFUL (total time: 3 seconds)
+
+* run:
+
+Men�:
+1. Mostrar saludo
+2. Mostrar tabla de un n�mero
+0. Salir
+Ingrese una opci�n: 2
+Ingrese un n�mero: 1
+1 x 1 = 1
+1 x 2 = 2
+1 x 3 = 3
+1 x 4 = 4
+1 x 5 = 5
+1 x 6 = 6
+1 x 7 = 7
+1 x 8 = 8
+1 x 9 = 9
+1 x 10 = 10
+1 x 11 = 11
+1 x 12 = 12
+
+Men�:
+1. Mostrar saludo
+2. Mostrar tabla de un n�mero
+0. Salir
+Ingrese una opci�n: 0
+Saliendo del programa...
+BUILD SUCCESSFUL (total time: 6 seconds)
+
+ */

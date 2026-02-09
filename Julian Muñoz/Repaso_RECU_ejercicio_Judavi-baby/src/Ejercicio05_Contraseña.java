@@ -19,3 +19,17 @@ public class Ejercicio05_Contraseña {
         System.out.println("Acceso concedido en " + intentos + " intento(s)");
     }
 }
+/**
+ * run:
+Ingrese la contrase�a: utpl
+Acceso concedido en 1 intento(s)
+BUILD SUCCESSFUL (total time: 5 seconds)
+ * run:
+Ingrese la contrase�a: dops
+Ingrese la contrase�a: dsopdasop
+Ingrese la contrase�a: dsasdopi
+Ingrese la contrase�a: utpl
+Acceso concedido en 4 intento(s)
+BUILD SUCCESSFUL (total time: 6 seconds)
+
+ */

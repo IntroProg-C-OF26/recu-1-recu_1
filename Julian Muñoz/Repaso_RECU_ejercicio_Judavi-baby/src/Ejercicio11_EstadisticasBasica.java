@@ -41,3 +41,26 @@ public class Ejercicio11_EstadisticasBasica {
         }
     }
 }
+/**
+ * run:
+Ingrese la cantidad de valores: 2
+Ingrese el valor 1: 1
+Ingrese el valor 2: 1
+Mayor: 1
+Menor: 1
+Promedio: 1,00
+BUILD SUCCESSFUL (total time: 1 minute 14 seconds)
+
+* run:
+Ingrese la cantidad de valores: 5
+Ingrese el valor 1: 2
+Ingrese el valor 2: 2
+Ingrese el valor 3: 2
+Ingrese el valor 4: 2
+Ingrese el valor 5: 2
+Mayor: 2
+Menor: 2
+Promedio: 2,00
+BUILD SUCCESSFUL (total time: 6 seconds)
+
+ */
