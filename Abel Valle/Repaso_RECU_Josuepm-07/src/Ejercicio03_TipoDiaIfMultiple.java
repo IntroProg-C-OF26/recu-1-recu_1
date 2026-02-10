@@ -1,6 +1,4 @@
-
 import java.util.Random;
-
 /**
  * Un sistema clasifica el día según la temperatura: frío (≤15 °C), templado 
  * (16–25 °C) o caluroso (≥26 °C).
@@ -22,3 +20,9 @@ public class Ejercicio03_TipoDiaIfMultiple {
 
     }
 }
+
+/**
+ * run:
+Caluroso: 34
+BUILD SUCCESSFUL (total time: 0 seconds)
+ */

@@ -24,3 +24,10 @@ public class Ejercicio_01_IFSIMPLE {
         // (No hay else: si no se cumple la condición, no se muestra nada)
     }
 }
+
+/**
+ * run:
+�La tarea fue entregada? (true (SI) /false (NO) ): true
+Tarea receptada 
+BUILD SUCCESSFUL (total time: 3 seconds)
+ */
